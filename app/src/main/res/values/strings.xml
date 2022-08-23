@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">PressureAndPulseApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pressure">Давление</string>
+    <string name="pressure_1">pressure 1</string>
+    <string name="pressure_2">pressure 2</string>
+    <string name="pulse">Пульс</string>
+    <string name="hint_pulse">Pulse</string>
+    <string name="save">Save</string>
+
+    <string name="default_data">15 ноября</string>
+    <string name="default_time">12:00</string>
+    <string name="_137">137</string>
+    <string name="_71">71</string>
+    <string name="image_monitor_heart">image_monitor_heart</string>
+    <string name="_59">59</string>
+    <string name="image_fab">image_FAB</string>
 </resources>
